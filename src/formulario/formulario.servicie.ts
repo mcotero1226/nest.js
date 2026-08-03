@@ -15,6 +15,7 @@ export class FormularioServicie {
 
     GetFormulario() {
         console.log(this.Formularioarray)
+        console.log(this.Formularioarray)
         return this.Formularioarray
     }
 
